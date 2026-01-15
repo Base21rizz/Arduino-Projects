@@ -1,7 +1,16 @@
+<table>
+  <tr>
+    <td width="40%" valign="center" valign="center">
+      <b><font size="10">This is the repository for all my Arduino simulation and hardware projects</font></b>
+    </td>
+    <td width=60%" valign="center">
+      <img src="https://raw.githubusercontent.com/Base21rizz/Base21rizz/main/Base21rizz/Intro.gif" width ="100%">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   
-# This is the repostitory for all my Arduino simulation and hardware projects
-
 ## 1. [The Arduino Matrix Calculator](https://github.com/Base21rizz/Arduino-Projects/tree/main/Calculator) 🧮
 ### A tactile arithmetic experience powered by ATmega328P
 
